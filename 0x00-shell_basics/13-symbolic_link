@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 12-file_type
+chmod u+x 13-symbolic_link
